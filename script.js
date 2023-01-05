@@ -1,8 +1,3 @@
-/*const student = prompt("Digite seu nome para sanber sua média: ")
-student = String(person) 
-const notaOne = Number(notaOne)
-const notaTwo = Number(notaTwo)*/
-
 const students = [
 {
   name: "Gustavo",
